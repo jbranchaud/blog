@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h4 class="pull-right"><small>{{ page.date | date: "%A - %b %d, %Y" }}</small></h4>
+
+<h4 style="border-bottom: solid 1px lightgray;">{{ page.title }}</h4>
+
+{{ content }}
+
+<small class="well" style="padding: 6px;">
+{% if page.hn-discussion %}
+    Further the discussion on
+    <a href="{{ page.hn-discussion }}">HackerNews</a>
+    and follow me on <a href="http://twitter.com/jbrancha">Twitter</a>.
+{% else %}
+    Follow me on <a href="http://twitter.com/jbrancha">Twitter</a>.
+{% endif %}
+</small>
+
+<div style="margin: 15px 0; padding-top: 5px; border-top: 1px solid lightgray;">
+{% if page.next %}
+<small class="pull-right">
+    <a href="{{ page.next.url }}"
+    {% if page.next.summary %}
+        title="{{ page.next.summary }}"
+    {% endif %}
+    >{{ page.next.title }} &rarr;</a>
+</small>
+{% endif %}
+
+{% if page.previous %}
+<small>
+    <a href="{{ page.previous.url }}" title="{{ page.previous.summary }}">&larr; {{ page.previous.title }}</a>
+</small>
+{% endif %}
+</div>
+
+<!--
+<div style="font-size: 85%;">
+Related Posts:
+<ul>
+{% for post in site.related_posts offset: 0 limit: 3 %}
+    <li><a href="{{ post.url }}" title="{{ post.summary }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
+-->
+
