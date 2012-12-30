@@ -2,7 +2,7 @@
 layout: post
 title: Date Formatting in Jekyll
 summary: A tutorial on formatting the date for a Jekyll post.
-hn-discussion:
+hn-discussion: http://news.ycombinator.com/item?id=4987497
 ---
 
 Date formatting for Jekyll is done using the
