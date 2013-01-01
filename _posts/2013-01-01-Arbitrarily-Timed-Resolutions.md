@@ -5,7 +5,7 @@ summary: A listing of my goals and resolutions for the year of 2013.
 hn-discussion:
 ---
 
-I've often been tempted to come up with a set of new year resolutions, but
+I've often been tempted to come up with a set of New Year's resolutions, but
 it is usually around the 5th of January that I think to do so. Nearly a week
 late and with little motivation, the thought comes and goes.
 
@@ -46,19 +46,22 @@ Programming
 
 - continue to organize and go to [Beer and Code](http://beerandco.de) once a
 month
-- relearn a language: Haskell
-- learn a new language: considering Clojure at this point
+- relearn a language: [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+- learn a new language: considering [Clojure](http://clojure.org/)
+at this point
 - do one fun mini project per month
-- make some contributions to an open source project
+- make some contributions to an open source project (suggestions are welcome)
 - do two fun projects with the Raspberry Pi
 
 Photography
 -----------
 
-- start a photo per day Flickr set for 2013 and add daily on schedule
+- start a photo per day [Flickr](http://www.flickr.com/photos/jbranchaud)
+set for 2013 and add daily on schedule
 - try really, really hard not to fall behind on the above and set aside time
 every Sunday (if necessary) to play catch up
-- upload an additional high quality photo to 500px weekly
+- upload an additional high quality photo to [500px](http://500px.com/jbrancha)
+weekly
 - try showing some of my photography and see if there is anyone out there
 interested in purchasing some of it
 - invest in one or two new lenses
@@ -106,7 +109,8 @@ Writing
 - write two decent blog posts per month
 - write extra *learn from my struggles* blog posts each month when applicable
 - maintain a personal journal (handwritten and/or digital)
-- participate in National Novel Writing Month (Nov.) and write a novel
+- participate in [National Novel Writing Month](http://www.nanowrimo.org/)
+(Nov.) and write a novel
 
 Spiritual
 ---------
