@@ -2,6 +2,7 @@
 layout: post
 title: First Jekyll Post
 summary: I am switching from wordpress to Jekyll for blogging and this is my first post.
+status: publish
 hn-discussion:
 ---
 
