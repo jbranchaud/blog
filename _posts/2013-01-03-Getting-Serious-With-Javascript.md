@@ -3,7 +3,7 @@ layout: post
 title: Getting Serious with JavaScript
 summary: An overview of the technologies and tools discussed in a recent developer meetup in Lincoln, NE
 status: publish
-hn-discussion:
+hn-discussion: http://news.ycombinator.com/item?id=4891962
 ---
 
 *This is reposted from [my old Wordpress blog](http://joshbranchaud.wordpress.com/2012/12/08/getting-serious-with-javascript/).*
