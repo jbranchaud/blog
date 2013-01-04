@@ -6,6 +6,8 @@ status: publish
 hn-discussion:
 ---
 
+*This is reposted from [my old Wordpress blog](http://joshbranchaud.wordpress.com/2012/12/08/getting-serious-with-javascript/).*
+
 [Hudl](http://www.hudl.com/) recently hosted a developer meetup with a talk
 given by [Matt Steele](http://matthewsteele.wordpress.com/). The talk was
 titled *Treating JavaScript Like a Real Language* with an alternative title of
