@@ -19,6 +19,7 @@ layout: default
 </small>
 
 <div style="margin: 15px 0; padding-top: 5px; border-top: 1px solid lightgray;">
+<!--
 {% if page.next %}
 <small class="pull-right">
     <a href="{{ page.next.url }}"
@@ -34,6 +35,38 @@ layout: default
     <a href="{{ page.previous.url }}" title="{{ page.previous.summary }}">&larr; {{ page.previous.title }}</a>
 </small>
 {% endif %}
+-->
+
+<!-- for finding the 'next' post go through chronologically -->
+{% assign currentreached = false %}
+{% for post in site.posts reversed %}
+    {% if post.id == page.id %}
+        {% assign currentreached = true %}
+    {% elsif currentreached and post.status == 'publish' %}
+        <small class="pull-right">
+            <a href="{{ post.url }}"
+            {% if post.summary %}
+                title="{{ post.summary }}"
+            {% endif %}
+            >{{ post.title }} &rarr;</a>
+        </small>
+        {% assign currentreached = false %}
+    {% endif %}
+{% endfor %}
+
+<!-- for finding the 'prev' post, go through reverse chronologically -->
+{% assign currentreached = false %}
+{% for post in site.posts %}
+    {% if post.id == page.id %}
+        {% assign currentreached = true %}
+    {% elsif currentreached and post.status == 'publish' %}
+        <small>
+            <a href="{{ post.url }}" title="{{ post.summary }}">&larr; {{ post.title }}</a>
+        </small>
+        {% assign currentreached = false %}
+    {% endif %}
+{% endfor %}
+
 </div>
 
 <!--
