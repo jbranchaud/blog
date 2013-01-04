@@ -40,6 +40,7 @@ Health and Wellness
 - replace most of the red meats in my diet with chicken
 - quit drinking soda
 - drink tea rather than coffee when possible
+- floss teeth daily
 
 Programming
 -----------
@@ -56,7 +57,7 @@ at this point
 Photography
 -----------
 
-- start a photo per day [Flickr](http://www.flickr.com/photos/jbranchaud)
+- start a photo per day [Flickr](http://www.flickr.com/photos/jbranchaud/sets/72157632410541272/with/8343153003/)
 set for 2013 and add daily on schedule
 - try really, really hard not to fall behind on the above and set aside time
 every Sunday (if necessary) to play catch up
@@ -64,7 +65,7 @@ every Sunday (if necessary) to play catch up
 weekly
 - try showing some of my photography and see if there is anyone out there
 interested in purchasing some of it
-- invest in one or two new lenses
+- invest in one or two new lenses (starting with a 55mm or 35mm f/1.8)
 - learn some new photography techniques and tricks
 - take time weekly to browse and critique quality photography (online)
 
@@ -133,7 +134,9 @@ Misc.
 
 - learn how to home brew beer
 - brew two types of beer over the course of the year
+- maintain a list of best books/movies read/seen during 2013
 - beat Pandemic on its hardest difficulty
+- create an updated post each month of progress and reflection on these goals
 
 Some of these items need more detail such as when and how each will be accomplished.
 
