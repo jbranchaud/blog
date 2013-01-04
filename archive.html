@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Archive
 ---
 
-<div id="posts">
+<h4>Archive <small>all posts</small></h4>
 
-    {% for post in site.posts offset: 0 limit: 10 %}
+{% for post in site.posts offset: 0 %}
     {% if post.status == 'publish' %}
         <div style="border-bottom: 1px solid gray; padding: 5px 0;">
         <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
@@ -16,12 +16,5 @@ title: Home
         {% endif %}
         </div>
     {% endif %}
-    {% endfor %}
+{% endfor %}
 
-<div style="margin: 15px 0; padding-top: 5px;">
-<small>
-    <a href="/archive.html" title="an archive of all posts">&larr; More posts</a>
-</small>
-</div>
-
-</div>
