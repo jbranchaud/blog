@@ -38,11 +38,12 @@ layout: default
 -->
 
 <!-- for finding the 'next' post go through chronologically -->
+{% assign status = page.status %}
 {% assign currentreached = false %}
 {% for post in site.posts reversed %}
     {% if post.id == page.id %}
         {% assign currentreached = true %}
-    {% elsif currentreached and post.status == 'publish' %}
+    {% elsif currentreached and post.status == status %}
         <small class="pull-right">
             <a href="{{ post.url }}"
             {% if post.summary %}
@@ -59,7 +60,7 @@ layout: default
 {% for post in site.posts %}
     {% if post.id == page.id %}
         {% assign currentreached = true %}
-    {% elsif currentreached and post.status == 'publish' %}
+    {% elsif currentreached and post.status == status %}
         <small>
             <a href="{{ post.url }}" title="{{ post.summary }}">&larr; {{ post.title }}</a>
         </small>
