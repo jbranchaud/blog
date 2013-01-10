@@ -1,0 +1,39 @@
+---
+layout: dashboard
+title: Jekyll Dashboard
+---
+
+This is a Jekyll dashboard to display a list of drafts as well as published
+posts.
+
+<h4><a href="/drafts.html">Drafts</a></h4>
+
+{% for post in site.posts offset: 0 limit: 10 %}
+    {% if post.status == 'draft' %}
+        <div style="border-bottom: 1px solid gray; padding: 5px 0;">
+        <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <br />
+        {% if post.summary %}
+            <small>{{ post.summary }}</small>
+        {% endif %}
+        </div>
+    {% endif %}
+{% endfor %}
+
+<br />
+
+<h4><a href="/">Published</a></h4>
+
+{% for post in site.posts offset: 0 limit: 10 %}
+    {% if post.status == 'publish' %}
+        <div style="border-bottom: 1px solid gray; padding: 5px 0;">
+        <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <br />
+        {% if post.summary %}
+            <small>{{ post.summary }}</small>
+        {% endif %}
+        </div>
+    {% endif %}
+{% endfor %}
