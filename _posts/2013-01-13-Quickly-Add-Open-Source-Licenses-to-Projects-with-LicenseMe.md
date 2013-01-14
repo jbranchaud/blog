@@ -2,7 +2,7 @@
 layout: post
 title: Quickly Add Open Source Licenses to Projects with LicenseMe
 summary: I have started working on LicenseMe, a small project for adding an open source license to a software project.
-status: draft
+status: publish
 hn-discussion:
 ---
 
