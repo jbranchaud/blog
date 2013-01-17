@@ -17,7 +17,12 @@
 
     <!-- Add bootstrap which makes everything better -->
     <link href="/css/readable-bootstrap.min.css" rel="stylesheet" media="all" />
-	
+    <!--
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" />
+
 	<!-- Include the site stylesheet -->
 	<link href="/css/styles.css" rel="stylesheet" media="all" />
 	
@@ -83,10 +88,10 @@
 
 	<!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
 	<!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page --> 
-	<header role="banner">
+	<header role="banner" class="subhead">
 	
 		<!-- ARIA: the landmark role "navigation" is added here as the element contains site navigation -->
-		<nav role="navigation masthead">
+		<div class="subnav">
 			<!-- This can contain your site navigation either in an unordered list or even a paragraph that contains links that allow users to navigate your site -->
             <ul class="nav nav-pills pull-right">
                 <li><a href="/">home</a></li>
@@ -94,7 +99,7 @@
                 <li><a href="http://github.com/jbranchaud">code</a></li>
                 <li><a href="http://flickr.com/jbranchaud">photo</a></li>
             </ul>
-		</nav>
+		</div>
 
 		<h3>notes <small>from</small> <a href="/">Josh Branchaud</a></h3>	
 		
