@@ -7,5 +7,5 @@ License
 -------
 
 Everything is licensed under the MIT License with the exception of the files
-and content contained with the _posts directory. See LICENSE for the details
+and content contained within the _posts directory. See LICENSE for the details
 of the MIT License.
