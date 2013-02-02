@@ -20,8 +20,9 @@ This year really has been a busy, rewarding, and incredibly exciting time.
 - I had an internship with the
 [National Institute of Aerospace](http://www.nianet.org/)
 at [NASA Langley](http://www.nasa.gov/centers/langley/home/index.html)
-in Virginia.
-- I had a paper accepted for publication in the proceedings of
+in Virginia
+- I had a [paper](http://www.computer.org/csdl/proceedings/icsm/2012/2313/00/06405261-abs.html)
+accepted for publication in the proceedings of
 the [International Conference on Software Maintenance](http://selab.fbk.eu/icsm2012/) (ICSM)
 - I was able to attend ICSM in Riva del Garda, Italy
 - I competed in and won [HackOmaha](http://hackomaha.com/) 2012 with
@@ -34,9 +35,9 @@ since then
 bunch of small 9ball tournaments, and started competing in a city 8ball league
 - I helped organize two very successful 8ball leagues/tournaments at UNL's
 Lutheran Center
-- My best man, Jason, threw me an awesome bachealor party which included
+- My best man, [Jason](https://twitter.com/jasongaare), and the rest of my
+groomsmen threw me an awesome bachealor party in Kansas City which included
 a tour of the [Boulevard Brewing Company](http://www.boulevard.com/)
-in Kansas City
 - And the big one, I got married (on Sept. 8, 2012)!
 
 And some sour notes:
