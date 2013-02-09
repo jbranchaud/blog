@@ -6,27 +6,21 @@ title: Home
 The internet is a series of tubes and somehow you found your way here.
 Unfortunately, the page you are looking for does not exist.
 
-<!--
-<div id="posts">
+<div id="posts" style="margin-top: 20px;">
 
-    {% for post in site.posts offset: 0 limit: 10 %}
+    <small>You might be interested in these recent posts:</small>
+
+    <br />
+
+    {% for post in site.posts offset: 0 limit: 5 %}
     {% if post.status == 'publish' %}
-        <div style="border-bottom: 1px solid gray; padding: 5px 0;">
-        <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
-        <a href="{{ post.url }}">{{ post.title }}</a>
+
+        <small>
+            <a href="{{ post.url}}">{{ post.title }}</a>
+        </small>
         <br />
-        {% if post.summary %}
-            <small>{{ post.summary }}</small>
-        {% endif %}
-        </div>
+
     {% endif %}
     {% endfor %}
 
-<div style="margin: 15px 0; padding-top: 5px;">
-<small>
-    <a href="/archive.html" title="an archive of all posts">&larr; More posts</a>
-</small>
 </div>
-
-</div>
--->
