@@ -1,3 +1,5 @@
 pygments: true
+include:
+- .htaccess
 exclude:
 - README.md
