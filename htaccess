@@ -1,3 +1,8 @@
+---
+layout: none
+permalink: .htaccess
+---
+
 # 404 Error
 ErrorDocument 404 /404.html
 
