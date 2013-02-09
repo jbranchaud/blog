@@ -5,8 +5,9 @@ title: Home
 
 <div id="posts">
 
-    {% for post in site.posts offset: 0 limit: 10 %}
-    {% if post.status == 'publish' %}
+    {% assign count = 0 %}
+    {% for post in site.posts offset: 0 %}
+    {% if post.status == 'publish' and count < 8 %}
         <div style="border-bottom: 1px solid gray; padding: 5px 0;">
         <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -15,6 +16,7 @@ title: Home
             <small>{{ post.summary }}</small>
         {% endif %}
         </div>
+        {% assign count = count | plus:1 %}
     {% endif %}
     {% endfor %}
 
