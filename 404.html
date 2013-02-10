@@ -12,14 +12,16 @@ Unfortunately, the page you are looking for does not exist.
 
     <br />
 
-    {% for post in site.posts offset: 0 limit: 5 %}
-    {% if post.status == 'publish' %}
+    {% assign count = 0 %}
+    {% for post in site.posts offset: 0 %}
+    {% if post.status == 'publish' and count < 5 %}
 
         <small>
             <a href="{{ post.url}}">{{ post.title }}</a>
         </small>
         <br />
 
+        {% assign count = count | plus:1 %}
     {% endif %}
     {% endfor %}
 
