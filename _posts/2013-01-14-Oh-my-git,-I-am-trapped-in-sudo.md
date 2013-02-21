@@ -25,8 +25,7 @@ initially required prepending sudo, but also required it for just about every
 command after that. This quickly became tedious and annoying, so I decided
 to move it into my space.
 
-What do you mean I still need sudo?
------------------------------------
+## What do you mean I still need sudo?
 
 After moving the mybin directory along with all of its contents, I was pretty
 excited that I wouldn't need to be typing sudo all the time anymore and so I
@@ -42,8 +41,7 @@ I realized the problem actually had to do with the owner, not with the
 permissions. The root user was still the owner of all of these directories and
 files. I needed to switch it all over to be owned by me.
 
-The Solution
-------------
+## The Solution
 
 I figured out two quick ways of getting the ownership switched all over to me.
 

@@ -20,8 +20,7 @@ C++, etc. It was an engaging talk with a whirlwind of technologies and tools,
 so I thought I would take this opportunity to transcribe the tools and 
 technologies into a blog post.
 
-Development and Syntax
-----------------------
+## Development and Syntax
 
 - [Zen-Coding](http://code.google.com/p/zen-coding/) - a new way of writing
 HTML and CSS code
@@ -31,8 +30,7 @@ HTML and CSS code
 for Vim and everything else
 - [Lint JavaScript on Commit](http://nicknisi.com/blog/blog/2012/11/12/lint-javascript-on-commit/)
 
-Testing
--------
+## Testing
 
 - [Jasmine](http://pivotal.github.com/jasmine/) -
 a behavior-driven development framework for testing JavaScript code
@@ -42,8 +40,7 @@ for JavaScript. No dependencies, works with any unit testing framework.
 JavaScript / Canvas based image diff utility with Jasmine matchers for testing
 canvas
 
-Build Tools
------------
+## Build Tools
 
 - [Grunt](http://gruntjs.com/) - a task-based command line build tool for
 JavaScript projects
@@ -53,8 +50,7 @@ compelling web apps
 - [Jenkins](http://jenkins-ci.org/) - an open-source continuous integration
 server
 
-Resources
----------
+## Resources
 
 - [js-assessment](https://github.com/rmurphey/js-assessment) - 
 a test-driven approach to assessing JS skills
@@ -66,15 +62,13 @@ Developer Network
 - [WebPlatform.org](http://www.webplatform.org/) - 
 an open community of developers building resources for a better web
 
-Books
------
+## Books
 
 - [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596000480)
 - [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)
 
-Beyond JavaScript
------------------
+## Beyond JavaScript
 
 - [CoffeeScript](http://coffeescript.org/) - a little language that compiles
 into JavaScript

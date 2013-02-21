@@ -22,8 +22,7 @@ so.
 > this unfortunate situation if I had done the right thing and included a
 > software license with my code.
 
-What? I Need a License?!
-------------------------
+## What? I Need a License?!
 
 I thought the simple act of throwing my code up on GitHub was a
 sufficient way to tell others, "*Hey, if you like my code, you should use it,
@@ -40,8 +39,7 @@ respective placeholders.
 This is a pretty simple process, but I thought I would make it a bit easier
 by creating a little command-line program that does it all for me.
 
-LicenseMe
----------
+## LicenseMe
 
 This python script takes a premade LICENSE file and adds a copy of it to the
 current directory whenever it is called. This means you don't have to track
@@ -56,8 +54,7 @@ and then create your own LICENSE file with the
 the [GNU GPL license](http://opensource.org/licenses/gpl-license),
 or whatever license it is that you prefer.
 
-The Future of LicenseMe
------------------------
+## The Future of LicenseMe
 
 This is a very preliminary version of the script and I have feature ideas that
 will make it more versitle and easier to use. The future of LicenseMe involves:

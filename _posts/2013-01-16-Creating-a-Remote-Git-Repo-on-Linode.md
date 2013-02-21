@@ -24,8 +24,7 @@ It is simple enough to create a remote repository on
 you don't want to use GitHub or would just like to put the code on existing
 server space you have? No problem.
 
-The Formalities
----------------
+## The Formalities
 
 First, I am assuming you already have a server you want to use. I personally
 use [Linode](http://www.linode.com/) and I would recommend it to others. The
@@ -45,8 +44,7 @@ the hell a *git* is, then you should probably follow this guide for
 [installing git](http://library.linode.com/linux-tools/version-control/git#sph_installing-git)
 or this other [more general guide](http://git-scm.com/book/en/Getting-Started-Installing-Git).
 
-The Setup
----------
+## The Setup
 
 Now for the fun part, setting up the git repo.
 
@@ -90,8 +88,7 @@ This last step makes pushing your changes to the linode server easy.
 
 Chip, Chop, Chip!
 
-References
-----------
+## References
 
 - [How to set up your own private Git server on Linux](http://tumblr.intranation.com/post/766290565/how-set-up-your-own-private-git-server-linux)
 - [jekyll's wiki for auto-deployment](https://github.com/mojombo/jekyll/wiki/Deployment)

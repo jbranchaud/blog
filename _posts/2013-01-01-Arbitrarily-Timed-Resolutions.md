@@ -18,8 +18,7 @@ can be done.
 
 It is 2013. It is time for a year of kicking ass.
 
-General
--------
+## General
 
 - seek ways to become a better husband (not sure how this will manifest itself)
 - find time to talk with my parents and sister more often (via skype, phone,
@@ -31,8 +30,7 @@ with school
 - reduce the waste I produce by composting more and buying foods/products with
 less packaging
 
-Health and Wellness
--------------------
+## Health and Wellness
 
 - run three times per week (around 4 miles)
 - complete the P90x program
@@ -43,8 +41,7 @@ Health and Wellness
 - drink tea rather than coffee when possible
 - floss teeth daily
 
-Programming
------------
+## Programming
 
 - continue to organize and go to [Beer and Code](http://beerandco.de) once a
 month
@@ -55,8 +52,7 @@ at this point
 - make some contributions to an open source project (suggestions are welcome)
 - do two fun projects with the Raspberry Pi
 
-Photography
------------
+## Photography
 
 - start a photo per day [Flickr](http://www.flickr.com/photos/jbranchaud/sets/72157632410541272/with/8343153003/)
 set for 2013 and add daily on schedule
@@ -70,16 +66,14 @@ interested in purchasing some of it
 - learn some new photography techniques and tricks
 - take time weekly to browse and critique quality photography (online)
 
-Pool
-----
+## Pool
 
 - play a minimum of three games daily
 - come up with a different skill to practice each day of the week to improve
 upon my technique and confidence
 - play in a tournament twice per month (most likely at Drifters)
 
-Research and School
--------------------
+## Research and School
 
 - read a research paper and write a review weekly (this will end up being a
 byproduct of the class I am taking anyway)
@@ -89,24 +83,21 @@ byproduct of the class I am taking anyway)
 - write my master's thesis
 - graduate from [UNL](http://unl.edu)'s master's program
 
-Cooking
--------
+## Cooking
 
 - cook two new recipes per month
 - learn about cooking gluten free and try a variety of gluten free recipes
 - continue to cook more and more with organic and sustainable foods
 - learn to cook healthier and appropriately portioned meals
 
-Reading
--------
+## Reading
 
 - read the newspaper (NYTimes) for 30 minutes daily
 - read one fiction book per month
 - read one nonfiction book per month
 - read one technical book every two months
 
-Writing
--------
+## Writing
 
 - write two decent blog posts per month
 - write extra *learn from my struggles* blog posts each month when applicable
@@ -114,15 +105,13 @@ Writing
 - participate in [National Novel Writing Month](http://www.nanowrimo.org/)
 (Nov.) and write a novel
 
-Spiritual
----------
+## Spiritual
 
 - set aside time for meditation and reflection each morning (10-20 minutes)
 - attend morning prayer at the Lutheran Center daily (Monday through Friday)
 - read from psalter daily (when should I do this?)
 
-Productivity
-------------
+## Productivity
 
 - check email with much less frequency and stop keeping a permanent email tab
 open in the browser
@@ -130,8 +119,7 @@ open in the browser
 habitually checking them throughout the day
  
 
-Misc.
------
+## Misc.
 
 - learn how to home brew beer
 - brew two types of beer over the course of the year
@@ -148,8 +136,7 @@ Supplumentary content such as lists of books, recipies, and programming
 resources will be added.
 
 {% comment %}
-Some lists for some of the above goals
----
+## Some lists for some of the above goals
 
 fiction books
 
