@@ -1,3 +1,4 @@
+permalink: /blog/:link
 pygments: true
 exclude:
 - README.md
