@@ -1,4 +1,4 @@
-permalink: /blog/:link
+permalink: /blog/:categories/:year/:month/:day/:title.html
 pygments: true
 exclude:
 - README.md
