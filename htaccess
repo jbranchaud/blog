@@ -88,3 +88,23 @@ AddType audio/x-wav .wav
 # Bittorrent
 AddType application/x-bittorrent .torrent
 
+Redirect /2012/12/20/First-Jekyll-Post.html http://joshbranchaud.com/blog/2012/12/20/First-Jekyll-Post.html
+Redirect /2012/12/24/Date-Formatting-in-Jekyll.html http://joshbranchaud.com/blog/2012/12/24/Date-Formatting-in-Jekyll.html
+Redirect /2012/12/28/Transferring-Domain-to-Gandi.html http://joshbranchaud.com/blog/2012/12/28/Transferring-Domain-to-Gandi.html
+Redirect /2012/12/31/My-Year-in-Review.html http://joshbranchaud.com/blog/2012/12/31/My-Year-in-Review.html
+Redirect /2013/01/01/Arbitrarily-Timed-Resolutions.html http://joshbranchaud.com/blog/2013/01/01/Arbitrarily-Timed-Resolutions.html
+Redirect /2013/01/02/Lessons-Learned-from-a-Camera.html http://joshbranchaud.com/blog/2013/01/02/Lessons-Learned-from-a-Camera.html
+Redirect /2013/01/03/Being-Less-Social.html http://joshbranchaud.com/blog/2013/01/03/Being-Less-Social.html
+Redirect /2013/01/03/Getting-Serious-With-Javascript.html http://joshbranchaud.com/blog/2013/01/03/Getting-Serious-With-Javascript.html
+Redirect /2013/01/04/Creating-a-Jekyll-Dashboard.html http://joshbranchaud.com/blog/2013/01/04/Creating-a-Jekyll-Dashboard.html
+Redirect /2013/01/06/Daily-Bread.html http://joshbranchaud.com/blog/2013/01/06/Daily-Bread.html
+Redirect /2013/01/08/Week-1-Photos-(2013).html http://joshbranchaud.com/blog/2013/01/08/Week-1-Photos-(2013).html
+Redirect /2013/01/11/Jekyll-Post.html http://joshbranchaud.com/blog/2013/01/11/Jekyll-Post.html
+Redirect /2013/01/13/Quickly-Add-Open-Source-Licenses-to-Projects-with-LicenseMe.html http://joshbranchaud.com/blog/2013/01/13/Quickly-Add-Open-Source-Licenses-to-Projects-with-LicenseMe.html
+Redirect /2013/01/14/Oh-my-git,-I-am-trapped-in-sudo.html http://joshbranchaud.com/blog/2013/01/14/Oh-my-git,-I-am-trapped-in-sudo.html
+Redirect /2013/01/16/Creating-a-Remote-Git-Repo-on-Linode.html http://joshbranchaud.com/blog/2013/01/16/Creating-a-Remote-Git-Repo-on-Linode.html
+Redirect /2013/01/27/SoundCloud-and-Mashups.html http://joshbranchaud.com/blog/2013/01/27/SoundCloud-and-Mashups.html
+Redirect /2013/02/08/Tools-for-Previewing-Markdown.html http://joshbranchaud.com/blog/2013/02/08/Tools-for-Previewing-Markdown.html
+Redirect /2013/02/10/Errors-While-Setting-Up-Django.html http://joshbranchaud.com/blog/2013/02/10/Errors-While-Setting-Up-Django.html
+Redirect /2013/02/23/Enabling-Local-File-Access-While-Developing-Javascript.html http://joshbranchaud.com/blog/2013/02/23/Enabling-Local-File-Access-While-Developing-Javascript.html
+
