@@ -1,6 +1,8 @@
-# Blog
+# Blog (Website)
 
-This is the repository for [my personal blog](http://joshbranchaud.com).
+This is the repository (originally) for
+[my personal blog](http://joshbranchaud.com/blog/), but has since
+grown to encompass my entire [personal website](http://joshbranchaud.com).
 
 ## Blog Post Listing
 
