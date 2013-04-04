@@ -31,6 +31,10 @@ p > code {
     line-height: 26px;
     color: #000;
 }
+.content h1.post-title {
+    padding-bottom: 2px;
+    border-bottom: solid 1px lightgray;
+}
 .content h1 small {
     font-size: 20.5px;
     line-height: 26px;
