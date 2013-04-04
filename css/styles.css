@@ -29,25 +29,55 @@ p > code {
 .content h1 {
     font-size: 22.5px;
     line-height: 26px;
-    color: #555;
+    color: #000;
+}
+.content h1 small {
+    font-size: 20.5px;
+    line-height: 26px;
+    color: #999;
 }
 .content h2 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 26px;
     color: #555;
     border-bottom: 1px solid lightgray;
 }
+.content h2 small {
+    font-size: 18px;
+    line-height: 26px;
+    color: #999;
+}
 .content h3 {
-    
+    font-size: 17px;
+}
+.content h3 small {
+    font-size: 15px;
+    color: #999;
 }
 .content h4 {
-
+    font-size: 15px;
+}
+.content h4 small {
+    font-size: 13px;
+    color: #999;
 }
 .content h5 {
-
+    font-size: 13px;
+    padding: 0;
+}
+.content h5 small {
+    font-size: 11px;
+    padding: 0;
+    color: #999;
 }
 .content h6 {
-
+    font-size: 11px;
+    padding: 0;
+}
+.content h6 small {
+    font-size: 9px;
+    padding: 0;
+    color: #999;
 }
 .content ul li,
 .content ol li {
