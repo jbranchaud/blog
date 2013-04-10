@@ -16,6 +16,10 @@ related to program analysis and human-aspects of software development.
 
 ## Publications
 
+My publications are listed at my
+[DBLP page](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Branchaud:Joshua.html)
+as well as below:
+
 - Neha Rungta, Suzette Person, Joshua Branchaud, "A change impact analysis
   to characterize evolving program behaviors," 2012 28th IEEE International
   Conference on Software Maintenance (ICSM), pp. 109-118, 2012 28th IEEE
