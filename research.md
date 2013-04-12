@@ -6,7 +6,8 @@ title: My Research
 # My Research
 
 I am a graduate research assistant at the Univserity of Nebraska-Lincoln in
-the [Esquared lab](http://e2.unl.edu). Generally, I do research in the area
+the [Esquared lab](http://e2.unl.edu). My advisor is Dr. Anita Sarma.
+Generally, I do research in the area
 of software engineering. More specifically, my research interests are
 related to program analysis and human-aspects of software development.
 
