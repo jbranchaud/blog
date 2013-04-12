@@ -29,4 +29,11 @@ as well as below:
 
 ## Research Projects
 
+### Palantir
+
+### PalWrap
+
+### DiSE
+
+### DECAF
 
