@@ -12,7 +12,7 @@ through the ELCA. YAGM is a year-long service program similar in some ways
 to the Peace Corp. They suggested we interview for either the
 Argentina/Uruguay country program or the Southern Africa country program.
 
-This past weekend we interviewed for both. They offered us placement for the
+This past weekend we interviewed for both. They offered us placement in the
 Argentina/Uruguay program.
 
 ![Argentina/Uruguay](http://i.imgur.com/HkRooQ5.jpg)
