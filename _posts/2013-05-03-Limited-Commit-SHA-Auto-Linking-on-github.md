@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Limited Commit SHA Auto-Linking on github
-summary: The commit SHA auto-linking within github's issues is fancy but limited.
+title: Limited Commit SHA Auto-Linking on GitHub
+summary: The commit SHA auto-linking within GitHub's issues is fancy but limited.
 status: publish
 hn-discussion:
 ---
 
 Sometimes I want to quickly look up a commit for a particular project via
-[github](https://github.com/)'s website. You'd think there would be a search
+[GitHub](https://github.com/)'s website. You'd think there would be a search
 bar for it, but nothing like this is provided. The next best thing is to add
 `/commit/<sha>` to the end of the repository's URL. This is no fun though.
 
 I then had the idea of taking advantage of the [commit SHA
 auto-linking](https://help.github.com/articles/github-flavored-markdown#references)
-that github provides within the repository issue tracking.
+that GitHub provides within the repository issue tracking.
 
 The list of commits for a repository can be enumerated with a log command.
 
@@ -41,7 +41,7 @@ will look something like this:
 
 ![issue with shas](http://i.imgur.com/7QUdJ4N.png)
 
-This is the point at which I noticed that github limits the number of commit
+This is the point at which I noticed that GitHub limits the number of commit
 SHAs it will auto-link in a given issue. Any more than 10 SHAs and it leaves
 them as plain text.
 
