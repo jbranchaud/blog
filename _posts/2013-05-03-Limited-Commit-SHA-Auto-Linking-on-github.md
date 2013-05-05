@@ -47,7 +47,8 @@ them as plain text.
 
 I had hoped to have a nice list of hyperlinked commit SHAs, but I ended up
 disappointed.
-Of course, this can be circumvented by generating a list of markdown links
+Of course, this can be circumvented by [generating a list of markdown
+links]({% post_url 2013-05-05-Hyperlinking-Commit-SHAs-on-GitHub %})
 with the commit SHAs as the text and the repository URL with `/commit/<sha>`
 as the URL. A list of SHAs in this form could be placed in both an issue or
 a markdown document in that repository.
