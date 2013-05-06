@@ -4,6 +4,9 @@ title: Limited Commit SHA Auto-Linking on GitHub
 summary: The commit SHA auto-linking within GitHub's issues is fancy but limited.
 status: publish
 hn-discussion:
+tags:
+- github
+- git
 ---
 
 Sometimes I want to quickly look up a commit for a particular project via
