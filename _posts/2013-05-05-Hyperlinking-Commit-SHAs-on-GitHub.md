@@ -9,7 +9,7 @@ tags:
 - git
 ---
 
-I recently wrote a post about how [GitHub's auto-linking of commit SHAs]({% post_url 2013-05-03-Limited-Commit-SHA-Auto-Linking-on-GitHub %}) is a bit
+I recently wrote a post about how [GitHub's auto-linking of commit SHAs]({% post_url 2013-05-03-Limited-Commit-SHA-Auto-Linking-in-GitHub-Issues %}) is a bit
 limited. The auto-linking of commit SHAs is a nice feature of GitHub's
 issues, but, as you can see in my previous post, each issue links a maximum
 of 10 commit SHAs. This is not a problem though because the links can be
