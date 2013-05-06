@@ -38,7 +38,9 @@ file.
 
 It is easy enough to automate the generation of a markdown link list like
 this. I wrote a small python script for it using the GitPython library. You
-can check out the script, [CommitLinker.py](), to see exactly how I did it.
+can check out the script,
+[CommitLinker.py](https://github.com/jbranchaud/gistory/blob/master/CommitLinker.py),
+to see exactly how I did it.
 
 Given the local repository path, the username, and the repository name,
 the process involves a few simple steps:
@@ -50,7 +52,9 @@ the process involves a few simple steps:
 - For each commit, append the commit's SHA to the partial URL and then
   output it as a markdown link
 
-To see this at work, I generated a list of these for my [gistory]()
-repository and committed it as [commits.md]().
+To see this at work, I generated a list of these for my
+[gistory](https://github.com/jbranchaud/gistory)
+repository and committed it as
+[commits.md](https://github.com/jbranchaud/gistory/blob/master/commits.md).
 
 Take that auto-linking!
