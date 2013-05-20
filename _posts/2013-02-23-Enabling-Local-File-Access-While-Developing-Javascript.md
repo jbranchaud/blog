@@ -2,7 +2,6 @@
 layout: post
 title: Enabling Local File Access While Developing Javascript
 summary: While learning d3.js, I ran into a wall trying to access local CSV files.
-status: publish
 hn-discussion:
 tags:
 - d3

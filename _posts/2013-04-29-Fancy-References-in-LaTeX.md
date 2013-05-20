@@ -2,7 +2,6 @@
 layout: post
 title: Fancy References in LaTeX
 summary: A handful of LaTeX macros that make your inline references fancier and cleaner
-status: publish
 hn-discussion:
 ---
 

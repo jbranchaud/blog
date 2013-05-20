@@ -3,7 +3,6 @@ layout: post
 title: Argentina/Uruguay
 summary: I will be serving in Argentina or Uruguay through YAGM starting in August.
 summary: Starting in August, Erin and I will be moving to either Argentina or Uruguay and living there for a year.
-status: publish
 hn-discussion:
 ---
 

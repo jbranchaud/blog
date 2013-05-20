@@ -2,7 +2,6 @@
 layout: post
 title: Tools for Previewing Markdown
 summary: You can write Markdown with just about anything, but it is nice to be able to preview it too
-status: publish
 hn-discussion:
 tags:
 - markdown

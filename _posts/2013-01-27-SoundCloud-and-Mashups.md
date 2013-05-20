@@ -2,7 +2,6 @@
 layout: post
 title: SoundCloud and Mashups
 summary: SoundCloud stands out from the rest of the cloud-based music apps and it is loaded with great mashups.
-status: publish
 hn-discussion:
 tags:
 - soundcloud

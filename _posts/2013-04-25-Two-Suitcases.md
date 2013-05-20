@@ -2,7 +2,6 @@
 layout: post
 title: Two Suitcases
 summary:
-status: publish
 hn-discussion:
 ---
 

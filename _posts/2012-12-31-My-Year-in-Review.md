@@ -2,7 +2,6 @@
 layout: post
 title: My Year in Review (2012)
 summary: A brief review of this year's happenings worth remembering.
-status: publish
 hn-discussion:
 ---
 

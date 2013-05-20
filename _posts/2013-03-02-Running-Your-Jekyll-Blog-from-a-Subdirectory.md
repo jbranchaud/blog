@@ -2,7 +2,6 @@
 layout: post
 title: Running Your Jekyll Blog from a Subdirectory
 summary: A tutorial on getting a Jekyll-powered blog to run from a subdirectory such as '/blog/'
-status: publish
 hn-discussion:
 tags:
 - jekyll

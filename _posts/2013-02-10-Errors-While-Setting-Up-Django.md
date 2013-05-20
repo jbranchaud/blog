@@ -2,7 +2,6 @@
 layout: post
 title: Errors While Setting Up Django&#58; Missing Modules and Environment Errors
 summary: Setting up Django seems pretty straightforward, but there are a few nasty and common errors that you may run into.
-status: publish
 hn-discussion:
 tags:
 - django

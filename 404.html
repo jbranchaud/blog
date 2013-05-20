@@ -10,21 +10,17 @@ Unfortunately, the page you are looking for does not exist.
 
 <div id="posts" style="margin-top: 20px;">
 
-    <small>You might be interested in these recent posts:</small>
+    However, you might be interested in these recent posts:
 
     <br />
 
-    {% assign count = 0 %}
-    {% for post in site.posts offset: 0 %}
-    {% if post.status == 'publish' and count < 5 %}
+    {% for post in site.posts offset: 0 limit: 5 %}
 
         <small>
             <a href="{{ post.url}}">{{ post.title }}</a>
         </small>
         <br />
 
-        {% assign count = count | plus:1 %}
-    {% endif %}
     {% endfor %}
 
 </div>
