@@ -2,7 +2,6 @@
 layout: post
 title: Oh my git, I am trapped in sudo!
 summary: After using sudo to create a git repo in root space, I moved it into my space, but was still required to use sudo.
-status: publish
 hn-discussion:
 ---
 

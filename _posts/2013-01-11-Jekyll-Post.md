@@ -2,7 +2,6 @@
 layout: post
 title: Jekyll-Post&#58; a script to initialize blog posts for Jekyll
 summary: I needed a quick and easy way to initialize blog posts for Jekyll, so I wrote this script.
-status: publish
 hn-discussion:
 ---
 

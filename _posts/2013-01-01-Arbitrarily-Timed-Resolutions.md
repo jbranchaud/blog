@@ -2,7 +2,6 @@
 layout: post
 title: Arbitrarily Timed Resolutions (2013)
 summary: A listing of my goals and resolutions for the year of 2013.
-status: publish
 hn-discussion:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: Hyperlinking to Commits on GitHub
 summary: An approach to hyperlinking to commits for GitHub repositories
-status: publish
 hn-discussion:
 tags:
 - github

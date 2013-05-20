@@ -2,7 +2,6 @@
 layout: post
 title: Creating a Remote Git Repo on Linode
 summary: A quick guide to setting up a remote git repository on Linode that you can push to.
-status: publish
 hn-discussion:
 tags:
 - git

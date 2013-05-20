@@ -2,7 +2,6 @@
 layout: post
 title: Graduation Observations
 summary: Some of my observations on commencement as well as a congratulations to my sister
-status: publish
 ---
 
 <center>

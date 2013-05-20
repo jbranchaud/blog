@@ -2,7 +2,6 @@
 layout: post
 title: KC Startup Weekend Postmortem
 summary: debriefing my experiences at my first startup weekend event
-status: draft
 hn-discussion:
 ---
 

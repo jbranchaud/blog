@@ -2,7 +2,6 @@
 layout: post
 title: KC Startup Weekend - Day 1
 summary: a short update from Day 1 of Kansas City Startup Weekend 7 (2013)
-status: publish
 hn-discussion:
 ---
 

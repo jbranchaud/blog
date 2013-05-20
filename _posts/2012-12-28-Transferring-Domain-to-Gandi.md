@@ -2,7 +2,6 @@
 layout: post
 title: Transferring a Domain Name to Gandi.net
 summary: The steps I took to transfer my domain name from GoDaddy to Gandi.net
-status: draft
 hn-discussion:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: Reflection
 summary: A reflection on reflection
-status: draft
 hn-discussion:
 ---
 

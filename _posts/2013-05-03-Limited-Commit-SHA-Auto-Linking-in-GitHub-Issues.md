@@ -2,7 +2,6 @@
 layout: post
 title: Limited Commit SHA Auto-Linking in GitHub Issues
 summary: The commit SHA auto-linking within GitHub's issues is fancy but limited.
-status: publish
 hn-discussion:
 tags:
 - github
