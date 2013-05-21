@@ -6,7 +6,7 @@ summary: Some of my observations on commencement as well as a congratulations to
 
 <center>
 <a href="http://www.flickr.com/photos/jbranchaud/8757362467/" title="Diploma
-by jbranchaud, on Flickr"><img style="border: 7px solid #000;"
+by jbranchaud, on Flickr"><img style="border: 7px solid #DDD;"
 src="http://farm9.staticflickr.com/8263/8757362467_9ae2b001c9.jpg"
 width="500" height="333" alt="Diploma"></a>
 </center>
@@ -35,7 +35,7 @@ observations.
 
 <center>
 <a href="http://www.flickr.com/photos/jbranchaud/8757362441/" title="Family
-by jbranchaud, on Flickr"><img style="border: 7px solid #000;"
+by jbranchaud, on Flickr"><img style="border: 7px solid #DDD;"
 src="http://farm4.staticflickr.com/3825/8757362441_6cc1848d45.jpg"
 width="500" height="333" alt="Family"></a>
 </center>
