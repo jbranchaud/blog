@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Did You Say You're Going?
-summary: We finally found out where in South America we are moving to.
+summary: We finally found out to where in South America we are moving
 tags:
 - travel
 - argentina
