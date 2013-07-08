@@ -22,4 +22,6 @@ More specifically, we will be in the
 area](http://en.wikipedia.org/wiki/Greater_Buenos_Aires)
 in a city called [Grand Bourg](http://en.wikipedia.org/wiki/Grand_Bourg).
 
+![Grand Bourg Map](http://i.imgur.com/ikhW4Jh.jpg)
+
 We will announce more details soon!
