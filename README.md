@@ -1,8 +1,9 @@
-# Blog (Website)
+# Website and Blog
 
-This is the repository (originally) for
-[my personal blog](http://joshbranchaud.com/blog/), but has since
-grown to encompass my entire [personal website](http://joshbranchaud.com).
+This is the repository for my
+[personal website](http://joshbranchaud.com) and
+[blog](http://joshbranchaud.com/blog/). I tend to blog about tech and
+software, but also include other parts of my life from time to time.
 
 ## License
 
