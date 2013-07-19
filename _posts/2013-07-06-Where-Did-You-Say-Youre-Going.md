@@ -25,3 +25,8 @@ in a city called [Grand Bourg](http://en.wikipedia.org/wiki/Grand_Bourg).
 ![Grand Bourg Map](http://i.imgur.com/ikhW4Jh.jpg)
 
 We will announce more details soon!
+
+**Update:**
+
+Erin recently wrote a post with more details about
+[our placement in Argentina](http://joshanderin.com/2013/07/15/Our-Placement.html).
