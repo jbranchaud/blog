@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forseeing Infrequency
-summary: a year in Argentina means I probably won't be blogging here too frequently
+summary: A year in Argentina means I probably won't be blogging here too frequently
 ---
 
 Grand Bourg, Argentina is a medium-sized city just an hour northwest of the
