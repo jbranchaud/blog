@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reviewed&#58; Bossypants by Tina Fey
-summary: a review of Tina Fey's memoir, Bossypants
+summary: A review of Tina Fey's memoir, Bossypants
 ---
 
 ![Cover of Bossypants by Tina
