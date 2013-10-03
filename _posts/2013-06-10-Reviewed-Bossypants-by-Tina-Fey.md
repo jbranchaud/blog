@@ -7,7 +7,8 @@ summary: A review of Tina Fey's memoir, Bossypants
 ![Cover of Bossypants by Tina
 Fey](http://upload.wikimedia.org/wikipedia/en/7/7c/Bossypants_Cover_%28Tina_Fey%29_-_200px.jpeg)
 
-*From Wikipedia, &copy; 2012 Hachette Book Group, Inc.*
+*<small>From Wikipedia, &copy; 2012 Hachette Book Group, Inc.</small>*
+
 
 Bossypants is a hilarious and thoughtful memoir that mainly covers
 [Tina Fey](http://en.wikipedia.org/wiki/Tina_Fey)'s
