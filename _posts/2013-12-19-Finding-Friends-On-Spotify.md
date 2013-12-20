@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Friends on Spotify (without Facebook)
-summary: Spotify makes it very easy to search for Facebook friends, but what if you don't want to be connected through Facebook?
+summary: Spotify makes it easy to search for Facebook friends, but what if you don't want to be connected through Facebook?
 ---
 
 ## tl;dr
