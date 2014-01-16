@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<h1 class="pull-right"><small>{{ page.date | date: "%A - %b %d, %Y" }}</small></h1>
+<h1 class="pull-right">
+    <small>
+        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
+            {{ page.date | date: "%A - %b %d, %Y" }}
+        </time>
+    </small>
+</h1>
 
 <h1 class="post-title">{{ page.title }}</h1>
 
