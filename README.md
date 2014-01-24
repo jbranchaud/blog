@@ -7,7 +7,7 @@ software, but also include other parts of my life from time to time.
 
 ## License
 
-Copyright &copy; 2013 [Josh Branchaud](http://joshbranchaud.com)
+&copy; 2013-2014 [Josh Branchaud](http://joshbranchaud.com)
 
 Everything is licensed under the MIT License with the exception of the files
 and content contained within the `_posts` directory. See
