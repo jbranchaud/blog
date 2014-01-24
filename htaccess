@@ -3,6 +3,14 @@ layout: none
 permalink: .htaccess
 ---
 
+# Use UTF-8 encoding for anything served as `text/html` or `text/plain`.
+AddDefaultCharset utf-8
+
+# Force UTF-8 for certain file formats.
+<IfModule mod_mime.c>
+AddCharset utf-8 .atom .css .js .json .rss .xml
+</IfModule>
+
 # 404 Error
 ErrorDocument 404 /404.html
 
@@ -87,6 +95,11 @@ AddType audio/x-wav .wav
 
 # Bittorrent
 AddType application/x-bittorrent .torrent
+
+# Feedburner Redirection
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^feed\.xml$ http://feeds.feedburner.com/joshbranchaud [R,L]
 
 Redirect /2012/12/20/First-Jekyll-Post.html http://joshbranchaud.com/blog/2012/12/20/First-Jekyll-Post.html
 Redirect /2012/12/24/Date-Formatting-in-Jekyll.html http://joshbranchaud.com/blog/2012/12/24/Date-Formatting-in-Jekyll.html
