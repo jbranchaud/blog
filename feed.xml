@@ -4,10 +4,10 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>{{ site.title }}</title>
-    <description>{{ site.description }}</description>
-    <id>{{ site.url }}</id>
+    <link href="{{ site.url }}/"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}/</id>
     <link href="{{ site.url }}" />
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     <author>
         <name>Josh Branchaud</name>
         <email>jbranchaud@gmail.com</email>
@@ -19,7 +19,7 @@ layout: none
           <link href="{{ site.url }}/blog{{ post.url }}" />
           <updated>{{ post.date | date_to_xmlschema }}</updated>
           <id>{{ site.url }}/blog{{ post.url }}</id>
-          <content type="html">{{ post.content | xml_escape }}</content>
+          <content type="html">{{ post.content | relative_urls_to_absolute | xml_escape }}</content>
       </entry>
     {% endfor %}
 </feed>
