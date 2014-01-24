@@ -2,8 +2,7 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>{{ site.title }}</title>
     <description>{{ site.description }}</description>
     <id>{{ site.url }}</id>
@@ -23,5 +22,4 @@ layout: none
           <content type="html">{{ post.content | xml_escape }}</content>
       </entry>
     {% endfor %}
-  </channel>
-</rss>
+</feed>
