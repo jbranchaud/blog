@@ -2,3 +2,6 @@
 
 # jekyll
 _site
+
+# bower
+bower_components
