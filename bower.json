@@ -1,0 +1,18 @@
+{
+  "name": "joshbranchaud.com",
+  "version": "0.0.0",
+  "homepage": "http://joshbranchaud.com",
+  "authors": [
+    "jbranchaud <jbranchaud@gmail.com>"
+  ],
+  "description": "my personal blog",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
