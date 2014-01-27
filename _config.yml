@@ -10,3 +10,4 @@ pygments: true
 
 exclude:
 - README.md
+- bower_components
