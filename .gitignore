@@ -3,5 +3,8 @@
 # jekyll
 _site
 
+# node/npm
+node_modules
+
 # bower
 bower_components
