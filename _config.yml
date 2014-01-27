@@ -10,4 +10,7 @@ pygments: true
 
 exclude:
 - README.md
+- package.json
+- Gruntfile.js
+- bower.json
 - bower_components
