@@ -24,7 +24,7 @@ module.exports = function(grunt) {
         copy: {
             styles: {
                 files: [
-                    {expand: true, cwd: 'css/', src: ['styles.css'], dest: 'assets/css/'}
+                    {expand: true, cwd: 'css/', src: ['styles.css', 'main.css'], dest: 'assets/css/'}
                 ]
             },
             normalize: {
