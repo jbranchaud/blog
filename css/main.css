@@ -1,0 +1,16 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    color: #222222;
+}
+
+a {
+    color: #9C0000;
+}
+a:hover {
+    color: #7C0000;
+}
