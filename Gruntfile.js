@@ -34,7 +34,8 @@ module.exports = function(grunt) {
             },
             fontawesome: {
                 files: [
-                    {expand: true, cwd: 'bower_components/font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'}
+                    {expand: true, cwd: 'bower_components/font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'},
+                    {expand: true, cwd: 'bower_components/font-awesome/fonts/', src: ['*'], dest: 'assets/fonts/'}
                 ]
             }
         },
