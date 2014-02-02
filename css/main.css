@@ -22,3 +22,6 @@ a:hover {
 .container {
     width: 840px;
 }
+.subhead h1 {
+    font-size: 0.75em;
+}
