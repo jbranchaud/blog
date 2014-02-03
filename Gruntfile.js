@@ -55,7 +55,10 @@ module.exports = function(grunt) {
             }
         },
         concurrent: {
-            dev: ['watch', 'exec:serve']
+            dev: ['watch', 'exec:serve'],
+            options: {
+                logConcurrentOutput: true
+            }
         },
         exec: {
             build: {
