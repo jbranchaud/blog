@@ -15,7 +15,3 @@ exclude:
 - Gruntfile.js
 - bower.json
 - bower_components
-- css
-- js
-- img
-- font
