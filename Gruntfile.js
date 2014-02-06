@@ -7,10 +7,11 @@ module.exports = function(grunt) {
                 options: {
                     compress: true,
                     yuicompress: true,
-                    paths: ['bower_components/bootstrap/less']
+                    paths: ['bower_components/bootstrap/less', 'bower_components/font-awesome/less']
                 },
                 files: {
-                    'assets/css/bootstrap.min.css': 'bower_components/bootstrap/less/bootstrap.less'
+                    'assets/css/bootstrap.min.css': 'bower_components/bootstrap/less/bootstrap.less',
+                    'assets/css/font-awesome.min.css': 'bower_components/font-awesome/less/font-awesome.less'
                 }
             }
         },
@@ -39,7 +40,6 @@ module.exports = function(grunt) {
             },
             fontawesome: {
                 files: [
-                    {expand: true, cwd: 'bower_components/font-awesome/css/', src: ['font-awesome.min.css'], dest: 'assets/css/'},
                     {expand: true, cwd: 'bower_components/font-awesome/fonts/', src: ['*'], dest: 'assets/fonts/'}
                 ]
             }
