@@ -45,7 +45,7 @@ and
 
     {% for post in site.posts offset: 0 limit: 10 %}
         <div style="border-bottom: 1px solid gray; padding: 5px 0;">
-        <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
+        <small style="color: #999;">{{ post.date | date: "%m/%d/%Y" }}</small> 
         <a href="{{ post.url }}">{{ post.title }}</a>
         <br />
         {% if post.summary %}
