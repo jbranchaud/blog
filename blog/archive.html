@@ -7,7 +7,9 @@ title: Archive
 
 {% for post in site.posts offset: 0 %}
     <div style="border-bottom: 1px solid gray; padding: 5px 0;">
-    <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+        <small style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small>
+    </time>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <br />
     {% if post.summary %}
