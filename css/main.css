@@ -35,6 +35,11 @@ a:hover {
     font-size: 1.0em;
 }
 
+/* index page */
+#home-header {
+    text-align: center;
+}
+
 /* posts */
 .post-header {
     margin: 3.0em 0;
