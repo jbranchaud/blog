@@ -7,6 +7,7 @@
 body {
     color: #222222;
     font-size: 18px;
+    border-top: 6px solid #9C0000;
     /*background: url(/assets/img/background_light.png);*/
 }
 
