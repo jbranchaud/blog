@@ -26,8 +26,13 @@ a:hover {
     width: 840px;
     background: #FFFFFF;
 }
-.subhead h1 {
-    font-size: 0.75em;
+.subhead {
+    margin-top: 1.0em;
+    margin-bottom: 3.0em;
+}
+.subnav h1 {
+    padding-top: 10px;
+    font-size: 1.0em;
 }
 
 /* posts */
