@@ -20,6 +20,10 @@ a {
 a:hover {
     color: #7C0000;
 }
+code {
+    color: #555;
+    background: #EEE;
+}
 
 /* content containers */
 .container {
