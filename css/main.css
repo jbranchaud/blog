@@ -9,9 +9,13 @@ body {
     font-size: 18px;
     border-top: 6px solid #9C0000;
     padding: 1.0em 0;
+    font-family: 'Gilda Display', serif;
     /*background: url(/assets/img/background_light.png);*/
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: 'Gilda Display', serif;
+}
 p {
     margin-bottom: 1.0em;
 }
