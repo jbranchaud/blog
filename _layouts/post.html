@@ -11,8 +11,11 @@ layout: default
 <h1 class="post-title">{{ page.title }}</h1>
 </div>
 
-{{ content }}
+<div class="post-content">
+    {{ content }}
+</div>
 
+<div class="post-footer">
 <small class="well" style="padding: 6px;">
 {% if page.hn-discussion %}
     Further the discussion on
@@ -53,6 +56,10 @@ Related Posts:
 </div>
 -->
 
+</div>
+
+<div class="post-comments">
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -67,5 +74,5 @@ Related Posts:
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
 
+</div>
