@@ -16,7 +16,8 @@ own implementation. I created a project,
 spell out *GITHUB* in the contribution graph of a
 [test account](https://github.com/commitart).
 
-![GITHUB in Contribution Graph](http://i.imgur.com/e6DlzfA.png)
+<img src="http://i.imgur.com/e6DlzfA.png" alt="GITHUB in Contribution Graph"
+style="width: 100%;">
 
 I accomplished this using [Rugged](https://github.com/libgit2/rugged),
 a ruby binding to [libgit2](https://github.com/libgit2/libgit2). It was
