@@ -8,10 +8,9 @@ markdown: kramdown
 
 pygments: true
 
-exclude:
-- README.md
-- package.json
-- node_modules
-- Gruntfile.js
-- bower.json
-- bower_components
+exclude: ['README.md',
+          'package.json',
+          'node_modules',
+          'Gruntfile.js',
+          'bower.json',
+          'bower_components']
