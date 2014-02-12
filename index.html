@@ -47,7 +47,7 @@ and
 <div id="posts">
 
     {% for post in site.posts offset: 0 limit: 10 %}
-        <div style="border-bottom: 1px solid gray; padding: 5px 0;">
+        <div class="post-item">
         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
             <small style="color: #999;">{{ post.date | date: "%m/%d/%Y" }}</small> 
         </time>
