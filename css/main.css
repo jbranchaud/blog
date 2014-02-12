@@ -43,6 +43,13 @@ code {
     padding-top: 10px;
     font-size: 1.0em;
 }
+.content {
+    margin-bottom: 2.0em;
+}
+.bounce-links {
+    border-top: 1px solid #CCC;
+    margin-top: 2.0em;
+}
 
 /* index page */
 #home-header {
