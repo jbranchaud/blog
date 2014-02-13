@@ -23,16 +23,6 @@ module.exports = function(grunt) {
             }
         },
         copy: {
-            images: {
-                files: [
-                    {expand: true, cwd: 'img/', src: ['**'], dest: 'assets/img/'}
-                ]
-            },
-            styles: {
-                files: [
-                    {expand: true, cwd: 'css/', src: ['styles.css', 'main.css'], dest: 'assets/css/'}
-                ]
-            },
             normalize: {
                 files: [
                     {expand: true, cwd: 'bower_components/normalize-css/', src: ['normalize.css'], dest: 'assets/css/'}
