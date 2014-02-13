@@ -36,12 +36,8 @@ module.exports = function(grunt) {
         },
         watch: {
             styles: {
-                files: 'css/**/*',
-                tasks: ['copy:styles']
-            },
-            images: {
-                files: 'img/**/*',
-                tasks: ['copy:images']
+                files: 'assets/css/main.css',
+                tasks: []
             }
         },
         concurrent: {
