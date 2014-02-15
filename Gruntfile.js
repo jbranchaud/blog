@@ -6,7 +6,7 @@ module.exports = function(grunt) {
             production: {
                 options: {
                     compress: true,
-                    yuicompress: true,
+                    cleancss: true,
                     paths: ['bower_components/bootstrap/less', 'bower_components/font-awesome/less']
                 },
                 files: {
