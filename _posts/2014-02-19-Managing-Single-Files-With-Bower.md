@@ -38,7 +38,7 @@ single file if we like.
     bower install --save https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
 GitHub's [Linguist](https://github.com/github/linguist) project
-is awesome, but we don't want the entire thing pulled into our
+is awesome, but perhaps we don't want the entire thing pulled into our
 project, we just want the `languages.yml` file, which is what we
 accomplished above.
 
