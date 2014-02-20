@@ -1,7 +1,5 @@
 # gitignore
 
-assets
-
 # jekyll
 _site
 
