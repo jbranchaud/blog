@@ -13,6 +13,8 @@ on these sorts of things anyway as I prepare my goals for 2013.
 [goals for 2013](http://joshbranchaud.com/2013/01/01/Arbitrarily-Timed-Resolutions.html).
 {% endcomment %}
 
+<!-- more -->
+
 This year really has been a busy, rewarding, and incredibly exciting time.
 
 - I completed 2 semesters of my master's degree
