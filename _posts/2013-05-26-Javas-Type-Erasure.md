@@ -18,6 +18,8 @@ type erasure was an aspect of generics to which I was not privy. I am
 writing this post because I have a feeling that many people using generics
 are also not aware of type erasure.
 
+<!-- more -->
+
 Let's do a quick litmus test. Does the following code compile?
 
 {% gist 5654036 %}
