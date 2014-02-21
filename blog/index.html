@@ -8,7 +8,7 @@ title: Blog
 <div id="posts">
 
     {% for post in site.posts offset: 0 limit: 10 %}
-        <div style="border-bottom: 1px solid gray; padding: 5px 0;">
+        <div style="border-bottom: 1px solid gray; padding: 15px 0;">
         <small class="post-date" style="color: #999;">{{ post.date | date: "%m/%d/%y" }}</small> 
         <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}
