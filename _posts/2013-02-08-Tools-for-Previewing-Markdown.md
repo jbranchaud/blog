@@ -18,6 +18,8 @@ I have found a few different tools for previewing Markdown. I will
 present them below and you can pick the one that makes the most sense
 for you.
 
+<!-- more -->
+
 - [Dingus](http://daringfireball.net/projects/markdown/dingus) - straight
 from the creator of Markdown is a nice browser-based tool that allows you
 to write and preview Markdown and even generate the corresponding HTML.
