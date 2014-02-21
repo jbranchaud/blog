@@ -22,6 +22,8 @@ the particular html page.
 So, you get to the end of the tutorial and you are left wondering
 how you are supposed to access data that is in other files.
 
+<!-- more -->
+
 This is easy enough. There are a number of ways to do this. You
 might as well use `d3.text()`, but there are also more specific
 methods like for CSV and TSV (for more details, see the
