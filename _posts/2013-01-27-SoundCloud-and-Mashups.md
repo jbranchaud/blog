@@ -18,6 +18,8 @@ ones I find myself using include
 
 And [SoundCloud](https://soundcloud.com) as well.
 
+<!-- more -->
+
 SoundCloud is a bit different from the rest mentioned above. Rather than
 streaming record labeled music that you can hear on the radio and find on
 the multimedia-clad shelves of Target and Walmart, you get a whole new and
