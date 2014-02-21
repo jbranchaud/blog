@@ -30,6 +30,8 @@ You can do a similar thing for tables, sections, equations, and definitions:
 Great, now when these various references are rendered, we know whether a
 table, equation, or whatever is being referred to.
 
+<!-- more -->
+
 However, there are a few minor issues with this approach:
 
 - Each time you want to refer to some entity, you are going to have to add
