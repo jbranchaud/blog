@@ -2,6 +2,7 @@
 
 # jekyll
 _site
+_drafts
 
 # node/npm
 node_modules
