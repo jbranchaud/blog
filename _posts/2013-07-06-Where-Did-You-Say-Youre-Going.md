@@ -15,6 +15,8 @@ because the program coordinators
 hadn't given us our official placement yet. However, they finally
 revealed the answer.
 
+<!-- more -->
+
 We are excited to say that for the next year we will be living and working
 in [Argentina](http://en.wikipedia.org/wiki/Argentina).
 More specifically, we will be in the
