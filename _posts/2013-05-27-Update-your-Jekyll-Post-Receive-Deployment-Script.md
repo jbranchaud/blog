@@ -12,6 +12,8 @@ updates lately resulting in the
 And with it are a lot of fancy, new features which are detailed in the
 previous link. So go update your gem to the latest and greatest!
 
+<!-- more -->
+
 There is also a little (necessary) breakage including the way you tell
 Jekyll to build your website. Pre-1.0, you could type the following:
 

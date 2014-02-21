@@ -17,6 +17,8 @@ I then had the idea of taking advantage of the [commit SHA
 auto-linking](https://help.github.com/articles/github-flavored-markdown#references)
 that GitHub provides within the repository issue tracking.
 
+<!-- more -->
+
 The list of commits for a repository can be enumerated with a log command.
 
     git log --pretty=format:"%H"

@@ -23,6 +23,8 @@ the format you are looking for.
 
 So, let's explore some other formatting options.
 
+<!-- more -->
+
 For starters, there are a couple of built in formats like the following:
 
 {% raw %}`{{ page.date | date: "%c" }}`{% endraw %} &rarr;

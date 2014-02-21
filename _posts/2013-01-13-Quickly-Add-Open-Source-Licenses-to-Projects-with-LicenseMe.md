@@ -21,6 +21,8 @@ so.
 > this unfortunate situation if I had done the right thing and included a
 > software license with my code.
 
+<!-- more -->
+
 ## What? I Need a License?!
 
 I thought the simple act of throwing my code up on GitHub was a

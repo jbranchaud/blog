@@ -19,6 +19,8 @@ C++, etc. It was an engaging talk with a whirlwind of technologies and tools,
 so I thought I would take this opportunity to transcribe the tools and 
 technologies into a blog post.
 
+<!-- more -->
+
 ## Development and Syntax
 
 - [Zen-Coding](http://code.google.com/p/zen-coding/) - a new way of writing

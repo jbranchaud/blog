@@ -17,6 +17,8 @@ can be done.
 
 It is 2013. It is time for a year of kicking ass.
 
+<!-- more -->
+
 ## General
 
 - seek ways to become a better husband (not sure how this will manifest itself)

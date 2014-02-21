@@ -24,6 +24,8 @@ initially required prepending sudo, but also required it for just about every
 command after that. This quickly became tedious and annoying, so I decided
 to move it into my space.
 
+<!-- more -->
+
 ## What do you mean I still need sudo?
 
 After moving the mybin directory along with all of its contents, I was pretty

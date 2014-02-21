@@ -19,6 +19,8 @@ to Bower in order to ensure that it is v3.0.0 that is pulled in to your
 project. Better yet, when others do development on your project, the
 `bower.json` file ensures that everyone is playing with the same equipment.
 
+<!-- more -->
+
 Assuming you already have [Bower initialized for your
 project](http://bower.io/#defining-a-package), the following command will
 install Normalize.css and note it as a dependency:

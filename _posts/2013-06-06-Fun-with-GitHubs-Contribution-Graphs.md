@@ -19,6 +19,8 @@ spell out *GITHUB* in the contribution graph of a
 <img src="http://i.imgur.com/e6DlzfA.png" alt="GITHUB in Contribution Graph"
 style="width: 100%;">
 
+<!-- more -->
+
 I accomplished this using [Rugged](https://github.com/libgit2/rugged),
 a ruby binding to [libgit2](https://github.com/libgit2/libgit2). It was
 simply a matter of creating a new git repository and jamming a bunch of

@@ -19,6 +19,8 @@ beginnings of a post that was sitting at the front of my mind. I suddenly have
 all these juicy ideas flowing, but I feel like I first need to get things
 setup. Bummer!
 
+<!-- more -->
+
 To fix this and save myself some time, I created
 [jekyll-post](https://github.com/jbranchaud/mybin/blob/master/jekyll-post).
 

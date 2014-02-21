@@ -16,6 +16,8 @@ issues, but, as you can see in my previous post, each issue links a maximum
 of 10 commit SHAs. This is not a problem though because the links can be
 created without GitHub's help by using markdown links.
 
+<!-- more -->
+
 ## Linking to Commits
 
 If GitHub won't link to the commits for us, then we can create the links

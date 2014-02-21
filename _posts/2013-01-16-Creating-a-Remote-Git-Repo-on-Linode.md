@@ -23,6 +23,8 @@ It is simple enough to create a remote repository on
 you don't want to use GitHub or would just like to put the code on existing
 server space you have? No problem.
 
+<!-- more -->
+
 ## The Formalities
 
 First, I am assuming you already have a server you want to use. I personally
