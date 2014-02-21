@@ -17,6 +17,8 @@ had no idea how to get the latest changes from that upstream git repository.
 It turns out that just a few quick git commands will get you back on the
 bleeding edge.
 
+<!-- more -->
+
 Assuming you are wanting to update the master branch, check it out:
 
     git checkout master
