@@ -17,6 +17,8 @@ consider the sheer amount of *stuff* I have. This has left me contemplating
 what it is that I will try to bring. It is going to be a year defined by
 **living with less**.
 
+<!-- more -->
+
 How many outfits will I be able to bring? Which books will I want to read
 this year? Which toiletries will I need to bring bulk of because they won't
 have quite what I use? Should I bring a jar of peanut butter? What things am
