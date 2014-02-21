@@ -17,6 +17,8 @@ didn't trip on the way to getting her diploma or anything like that.
 It was a long, drawn out day, so I filled some of the time by making some
 observations.
 
+<!-- more -->
+
 - Most Popular Cliche Statement:
   > "It's not goodbye, it's see you later."
 
