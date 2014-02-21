@@ -21,6 +21,8 @@ there can be a missing library which is also tied back to the first issue.
 *Note: these are issues I encountered on a Mac running OS X 10.8 and using
 MySQL for the Django database.*
 
+<!-- more -->
+
 ## Installing Django
 
 I soon learned Django is
