@@ -11,6 +11,8 @@ Type this user-friendly syntax into Spotify's main search bar:
 <img src="http://i.imgur.com/FIypTqT.png" alt="Searching for Spotify
 Friends" width="50%">
 
+<!-- more -->
+
 ## The UX Breakdown
 
 I am hesitant about this whole *social music revolution* thing that plenty
