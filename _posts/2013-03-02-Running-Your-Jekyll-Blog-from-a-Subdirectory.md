@@ -24,6 +24,8 @@ but it assumes that you are going to run your blog from the
 top-level directory. In this post, I will present two approaches to
 running your blog from a subdirectory.
 
+<!-- more -->
+
 ## Solution 1
 
 If you are simply powering only your blog with Jekyll and plan to
