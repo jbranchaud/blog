@@ -49,3 +49,5 @@ And that's it.
 There are lots of awesome packages already out for Atom and many more are sure
 to come. In fact, if you have an idea for your own Atom package, check out this
 guide on [creating your first package](https://atom.io/docs/v0.60.0/your-first-package).
+
+PS. I wrote this post in Atom.
