@@ -23,6 +23,8 @@ package isn't necessary, you can instead define some functionality in your
 In this post, I will take us beyond the trivial example that Jason gives in
 his post.
 
+<!-- more -->
+
 ## The Problem
 
 I use [Jekyll](http://jekyllrb.com/), the static site generator used by GitHub
