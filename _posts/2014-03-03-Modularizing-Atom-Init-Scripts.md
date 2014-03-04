@@ -18,6 +18,8 @@ to move the three small blocks of code I had written to a separate file. These
 three blocks of code were specific to Jekyll, so it seemed natural to stick
 them in a separate file, say `jekyll.coffee`.
 
+<!-- more -->
+
 ## The Setup
 
 I started by adding a new directory to my `~/.atom` directory. I called mine
