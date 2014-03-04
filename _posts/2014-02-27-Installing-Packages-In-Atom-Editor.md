@@ -20,6 +20,8 @@ How do you install an Atom package? Well, it isn't immediately clear how to do
 so. There are, however, two rather simple ways to search for and install
 packages once you know where to look.
 
+<!-- more -->
+
 ## The GUI Approach
 
 From the Atom editor menus, navigate to *Atom* -> *Preferences*.
