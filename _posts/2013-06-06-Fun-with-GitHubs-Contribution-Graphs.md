@@ -16,8 +16,7 @@ own implementation. I created a project,
 spell out *GITHUB* in the contribution graph of a
 [test account](https://github.com/commitart).
 
-<img src="http://i.imgur.com/e6DlzfA.png" alt="GITHUB in Contribution Graph"
-style="width: 100%;">
+<img src="http://i.imgur.com/e6DlzfA.png" alt="GITHUB in Contribution Graph">
 
 <!-- more -->
 
