@@ -79,6 +79,9 @@ code {
 .post-content {
     margin-bottom: 2.0em;
 }
+.post-content img {
+    max-width: 100%
+}
 
 .post-footer {
     margin-bottom: 2.0em;
