@@ -5,6 +5,28 @@ This is the repository for my
 [blog](http://joshbranchaud.com/blog/). I tend to blog about tech and
 software, but also include other parts of my life from time to time.
 
+To **build** the site, simply run
+
+   grunt build
+
+which will use a combination of grunt tasks and jekyll to build the site.
+See the `_site` directory.
+
+To **serve** the site locally, simply run
+
+   grunt serve
+
+which will use a combination of grunt tasks and jekyll to locally serve the
+site and re-serve as changes are made. See
+[localhost:4000](http://localhost:4000).
+
+To **deploy** the site to production, simply run
+
+   grunt deploy
+
+which will push to both the GitHub repo (`master`) and the production server
+(`deploy`) that hosts the site.
+
 ## License
 
 &copy; 2013-2014 [Josh Branchaud](http://joshbranchaud.com)
