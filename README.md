@@ -27,6 +27,13 @@ To **deploy** the site to production, simply run
 which will push to both the GitHub repo (`master`) and the production server
 (`deploy`) that hosts the site.
 
+## Dependencies
+
+- `npm`
+- `bower`
+- `grunt`
+- `jekyll 1.5.1`
+
 ## License
 
 &copy; 2013-2014 [Josh Branchaud](http://joshbranchaud.com)
