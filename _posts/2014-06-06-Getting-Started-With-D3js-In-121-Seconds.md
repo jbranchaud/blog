@@ -13,7 +13,7 @@ twins). Don't worry about creating an account just yet. Remember, you are on
 the clock.
 
 First thing is first, you are going to need some D3. It is easy enough to
-include in the HTML section with the follow script tag:
+include in the HTML section with the following script tag:
 
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
