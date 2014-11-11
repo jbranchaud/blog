@@ -14,6 +14,11 @@ title: Stuff by Josh Branchaud
   they matter. I don’t know how much more, but sometimes you have to do
   things without knowing how much you need."*
 
+- [How We Made Our Landing Pages Fast: A Grand Journey](http://blog.trello.com/how-we-made-our-new-landing-pages-fast-a-grand-journey/?utm_source=facebook&utm_medium=post_111014&utm_campaign=landingpages)
+  \- A postmortem on how Trello sped up their static pages by separating
+  them from the rest of the single page application logic. Those pages will
+  load faster when you cut all the unneeded CSS and JavaScript.
+
 ##### 11/4/2014
 
 - [The Other Side of Diversity](https://medium.com/@ericajoy/the-other-side-of-diversity-1bb3de2f053e)
