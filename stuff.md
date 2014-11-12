@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/10/2014
+
+- [How We Made Our Landing Pages Fast: A Grand Journey](http://blog.trello.com/how-we-made-our-new-landing-pages-fast-a-grand-journey/?utm_source=facebook&utm_medium=post_111014&utm_campaign=landingpages)
+  \- A postmortem on how Trello sped up their static pages by separating
+  them from the rest of the single page application logic. Those pages will
+  load faster when you cut all the unneeded CSS and JavaScript.
+
 ##### 11/9/2014
 
 - [Against Productivity](https://medium.com/message/against-productivity-b19f56b67da6)
@@ -13,11 +20,6 @@ title: Stuff by Josh Branchaud
   recognize. We all need a little more time to connect the dots and see if
   they matter. I don’t know how much more, but sometimes you have to do
   things without knowing how much you need."*
-
-- [How We Made Our Landing Pages Fast: A Grand Journey](http://blog.trello.com/how-we-made-our-new-landing-pages-fast-a-grand-journey/?utm_source=facebook&utm_medium=post_111014&utm_campaign=landingpages)
-  \- A postmortem on how Trello sped up their static pages by separating
-  them from the rest of the single page application logic. Those pages will
-  load faster when you cut all the unneeded CSS and JavaScript.
 
 ##### 11/4/2014
 
