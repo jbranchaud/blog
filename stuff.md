@@ -5,6 +5,15 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/11/2014
+
+- [Writing Fast Ruby](https://www.youtube.com/watch?v=fGFM_UrSp70)
+  \- Ruby usually has multiple ways to achieve the same thing, however which
+  way a developer chooses to do that thing may have significant performance
+  implications. In this talk, Erik Michaels-Ober walks through many
+  practical examples of even simple ways that performance can be
+  significantly improved by doing something one way and not the other.
+
 ##### 11/10/2014
 
 - [How We Made Our Landing Pages Fast: A Grand Journey](http://blog.trello.com/how-we-made-our-new-landing-pages-fast-a-grand-journey/?utm_source=facebook&utm_medium=post_111014&utm_campaign=landingpages)
