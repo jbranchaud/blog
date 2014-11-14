@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/13/2014
+
+- [Google Lifts the Turing Award Into Nobel Territory](http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/?ref=technology&_r=0)
+  \- The prize money associated with the Turing Award is being raised from
+  $250,000 to $1,000,000 thanks to some financial support from Google.
+
 ##### 11/11/2014
 
 - [Writing Fast Ruby](https://www.youtube.com/watch?v=fGFM_UrSp70)
