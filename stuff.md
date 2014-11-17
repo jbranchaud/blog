@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/16/2014
+
+- [Developing on OS X
+Yosemite](http://fredkelly.net/articles/2014/10/19/developing_on_yosemite.html)
+  \- A nice, concise guide to getting a terminal development environment
+  setup for ruby development on a fresh install of OS X Yosemite.
+
 ##### 11/13/2014
 
 - [Google Lifts the Turing Award Into Nobel Territory](http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/?ref=technology&_r=0)
