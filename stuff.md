@@ -12,6 +12,10 @@ Yosemite](http://fredkelly.net/articles/2014/10/19/developing_on_yosemite.html)
   \- A nice, concise guide to getting a terminal development environment
   setup for ruby development on a fresh install of OS X Yosemite.
 
+- [Maintainable JavaScript](https://www.youtube.com/watch?v=c-kav7Tf834)
+  \- This talk, given by Nicholas Zakas, goes over important points for
+  writing maintainable, team-oriented JavaScript.
+
 ##### 11/13/2014
 
 - [Google Lifts the Turing Award Into Nobel Territory](http://bits.blogs.nytimes.com/2014/11/13/google-lifts-the-turing-award-into-nobel-territory/?ref=technology&_r=0)
