@@ -5,6 +5,14 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/18/2014
+
+- [Cat Care and Maintenance](https://www.youtube.com/watch?v=-D15q-_hdzs&feature=youtu.be&t=21m48s)
+  \- This talk, given by [@tenderlove](https://twitter.com/tenderlove),
+  goes over techniques for taking
+  care of cats as well as profiling object allocation in ruby code to find
+  opportunities for optimization.
+
 ##### 11/16/2014
 
 - [Developing on OS X
