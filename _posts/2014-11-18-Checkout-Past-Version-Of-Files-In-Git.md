@@ -71,3 +71,6 @@ specify the top level directory instead of a specific file.
     $ git checkout 52a7173 .
 
 Now back to actually writing code.
+
+Source: [reset or revert a specific file to a specific revision using
+Git?](http://stackoverflow.com/questions/215718/reset-or-revert-a-specific-file-to-a-specific-revision-using-git)
