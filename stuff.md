@@ -7,6 +7,11 @@ title: Stuff by Josh Branchaud
 
 ##### 11/19/2014
 
+- [Flow](http://flowtype.org/)
+  \- Facebook open sources an experimental tool for adding some type
+  checking to JavaScript. It is opt-in, so type checking can be
+  incrementally added to various parts of an existing codebase.
+
 - [Functional Programming for Rubyists](https://www.youtube.com/watch?v=JcFmnF3BDIM)
   \- This talk, given by Arne Brasseur, goes over the concepts and benefits of
   functional and multi-paradigm programming and then gives a primer on doing
