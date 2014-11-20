@@ -7,6 +7,12 @@ title: Stuff by Josh Branchaud
 
 ##### 11/19/2014
 
+- [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+  \- In this article, Alexis Beingessner provides an accessible and useful
+  explanation of how (and in what ways) Rust is safe, how to be unsafe, and
+  how unsafety (when used responsibly) can provide safe abstractions for
+  efficiently working with collections.
+
 - [Flow](http://flowtype.org/)
   \- Facebook open sources an experimental tool for adding some type
   checking to JavaScript. It is opt-in, so type checking can be
