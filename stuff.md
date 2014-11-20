@@ -5,6 +5,14 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/19/2014
+
+- [Functional Programming for Rubyists](https://www.youtube.com/watch?v=JcFmnF3BDIM)
+  \- This talk, given by Arne Brasseur, goes over the concepts and benefits of
+  functional and multi-paradigm programming and then gives a primer on doing
+  functional programming in Ruby using some built in features along with some
+  functional-programming-oriented gems.
+
 ##### 11/18/2014
 
 - [Cat Care and Maintenance](https://www.youtube.com/watch?v=-D15q-_hdzs&feature=youtu.be&t=21m48s)
