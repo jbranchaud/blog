@@ -5,6 +5,15 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/20/2014
+
+- [Boundaries](https://www.youtube.com/watch?v=yTkzNHF6rMs)
+  \- In this talk, Gary Bernhardt discusses a number of programming
+  paradigms and then explains an approach to applying purely functional
+  programming concepts to real-world applications. It involves a purely
+  functional core surrounded by a thin ring of functionality that interacts
+  with the nastiness and unpredictability of the outside world.
+
 ##### 11/19/2014
 
 - [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
