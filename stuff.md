@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/25/2014
+
+- [git-extras](https://github.com/tj/git-extras)
+  \- This is a project with a bunch of extras and convenience methods to
+  supplement standard git commands. Get a detailed summary of a repository,
+  obliterate a file from a repos history, and more.
+
 ##### 11/20/2014
 
 - [Boundaries](https://www.youtube.com/watch?v=yTkzNHF6rMs)
