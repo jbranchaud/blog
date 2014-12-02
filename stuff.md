@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 12/02/2014
+
+- [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4)
+  \- Scott Hanselman delivers an entertaining talk that touches on the
+  current state of computing and JavaScript as the assembly language of the
+  internet.
+
 ##### 11/25/2014
 
 - [git-extras](https://github.com/tj/git-extras)
