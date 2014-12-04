@@ -90,3 +90,8 @@ code {
 .post-comments {
     margin-bottom: 2.0em;
 }
+
+/* posts index */
+#posts img {
+  max-width: 100%;
+}
