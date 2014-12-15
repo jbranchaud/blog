@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 12/14/2014
+
+- [User Interface Algorithms](https://www.youtube.com/watch?v=90NsjKvz9Ns)
+  \- In this JSConf2014 talk, Mark DiMarco discusses two algorithms that
+  can be used to improve interactions within user interfaces.
+
 ##### 12/02/2014
 
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4)
