@@ -1,36 +1,33 @@
 <!DOCTYPE html>
-<html lang="en"> <!-- Set this to the main language of your site -->
+<html lang="en">
 <head>
-	<!-- Define the page charset to be utf-8 -->
-	<meta charset="utf-8" />
-	
-    <title>{{ page.title }} &middot; Josh Branchaud</title>
-	
-	<!-- Enter a brief description of your page -->
+  <meta charset="utf-8">
+
+  <title>{{ page.title }} &middot; Josh Branchaud</title>
+
 	<meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Atom Feed -->
+  <link href="/feed.xml" rel="alternate" title="Josh Branchaud's Blog Post Feed" type="application/atom+xml">
 	
-	<!-- Define a viewport to mobile devices to use - telling the browser to assume that the page is as wide as the device (width=device-width) and setting the initial page zoom level to be 1 (initial-scale=1.0) -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Normalize the way differen browser render elements -->
+  <link href="/assets/css/normalize.css" rel="stylesheet" media="all">
 
-    <!-- Atom Feed -->
-    <link href="/feed.xml" rel="alternate" title="Josh Branchaud's Blog Post Feed" type="application/atom+xml">
-	
-	<!-- Add normalize.css which enables browsers to render all elements more consistently and in line with modern standards as it only targets particular styles that need normalizing -->
-	<link href="/assets/css/normalize.css" rel="stylesheet" media="all" />
+  <!-- Add bootstrap which makes everything better -->
+  <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="all">
+  <link href="/assets/css/font-awesome.min.css" rel="stylesheet" media="all">
+  <!--
+  <link href="/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" />
+  -->
 
-    <!-- Add bootstrap which makes everything better -->
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="all" />
-    <link href="/assets/css/font-awesome.min.css" rel="stylesheet" media="all" />
-    <!--
-    <link href="/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" />
-    -->
+  <!-- Include the site stylesheet -->
+  <link href="/assets/css/main.css" rel="stylesheet" media="all">
 
-    <!-- Include the site stylesheet -->
-    <link href="/assets/css/main.css" rel="stylesheet" media="all" />
-
-    <!-- Google Font - Gilda Display -->
-    <link href='http://fonts.googleapis.com/css?family=Gilda+Display' rel='stylesheet' type='text/css'>
+  <!-- Google Font - Gilda Display -->
+  <link href='http://fonts.googleapis.com/css?family=Gilda+Display' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
