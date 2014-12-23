@@ -34,61 +34,64 @@
 
     <div class="container">
 
-	<!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
-	<!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page --> 
 	<header role="banner" class="subhead">
 	
-		<!-- ARIA: the landmark role "navigation" is added here as the element contains site navigation -->
 		<div class="subnav">
-			<!-- This can contain your site navigation either in an unordered list or even a paragraph that contains links that allow users to navigate your site -->
-            <ul class="nav nav-pills pull-right">
-                <li><a href="/about.html">about</a></li>
-                <li><a href="/blog/">blog</a></li>
-                <li><a title="stuff" href="/stuff.html">
-                    <i class="fa fa-fire-extinguisher"></i>
-                </a></li>
-                <li><a title="code" href="http://github.com/jbranchaud">
-                    <i class="fa fa-github"></i>
-                </a></li>
-                <li><a title="photos" href="http://flickr.com/jbranchaud">
-                    <i class="fa fa-camera-retro"></i>
-                </a></li>
-                <li><a title="tweets" href="https://twitter.com/jbrancha">
-                    <i class="fa fa-twitter"></i>
-                </a></li>
-                <li><a title="feed" href="/feed.xml">
-                    <i class="fa fa-rss"></i>
-                </a></li>
-            </ul>
-            
-            <h1><a href="/">Josh Branchaud</a></h1>
-		
+      <ul class="nav nav-pills pull-right">
+          <li><a href="/about.html">about</a></li>
+          <li><a href="/blog/">blog</a></li>
+          <li><a title="stuff" href="/stuff.html">
+              <i class="fa fa-fire-extinguisher"></i>
+          </a></li>
+          <li><a title="code" href="http://github.com/jbranchaud">
+              <i class="fa fa-github"></i>
+          </a></li>
+          <li><a title="photos" href="http://flickr.com/jbranchaud">
+              <i class="fa fa-camera-retro"></i>
+          </a></li>
+          <li><a title="tweets" href="https://twitter.com/jbrancha">
+              <i class="fa fa-twitter"></i>
+          </a></li>
+          <li><a title="feed" href="/feed.xml">
+              <i class="fa fa-rss"></i>
+          </a></li>
+      </ul>
+
+      <h1><a href="/">Josh Branchaud</a></h1>
+
 		</div>
 
 	</header>
-	
-	<!-- If you want to use an element as a wrapper, i.e. for styling only, then <div> is still the element to use -->
+
 	<div class="wrap content shadow">
-	
+
         {{ content }}
-		
+
 	</div>
-	
-	<!-- The main page footer can contain items such as copyright and contact information. It can also contain a duplicated navigation of your site which is not usually contained within a <nav> -->
-	<!-- ARIA: the landmark role "contentinfo" is added here as it contains metadata that applies to the parent document -->
+
 	<footer role="contentinfo">
 
-        <small class="pull-right">Lovingly concocted by <a href="http://jekyllrb.com/">Jekyll</a></small>
+    <small class="pull-right">
+      Lovingly concocted by <a href="http://jekyllrb.com/">Jekyll</a>
+    </small>
 
-		<!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2012' is a date -->
-            <small>&copy; <time datetime="2013">2013</time> - <time datetime="2014">2014</time> <a href="http://joshbranchaud.com">Josh
-                Branchaud</a> &middot; <a href="mailto:jbranchaud@gmail.com">email</a> &middot; <a href="http://twitter.com/jbrancha">@jbrancha</a></small><br />
+    <small>
+      &copy;
+      <time datetime="2013">2013</time> - <time datetime="2014">2014</time>
+      <a href="http://joshbranchaud.com">Josh Branchaud</a>
+      &middot;
+      <a href="mailto:jbranchaud@gmail.com">email</a>
+      &middot;
+      <a href="http://twitter.com/jbrancha">@jbrancha</a>
+    </small>
+
+    <br />
 
 	</footer>
 
-    </div>
+</div>
 	
-	<!-- Google Analytics - change the UA-XXXX-XX string to your site's ID -->
+	<!-- Google Analytics -->
 	<script>
 		var _gaq = _gaq || [];
 	 	_gaq.push(['_setAccount', 'UA-37246590-1']);
