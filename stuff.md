@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 12/24/2014
+
+- [Mozilla Research Projects](https://www.mozilla.org/en-US/research/projects/)
+  \- A list of ambitious and exciting research projects that Mozilla
+  Research is currently working on.
+
 ##### 12/14/2014
 
 - [User Interface Algorithms](https://www.youtube.com/watch?v=90NsjKvz9Ns)
