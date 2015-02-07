@@ -11,4 +11,6 @@ exclude: ['README.md',
           'node_modules',
           'Gruntfile.js',
           'bower.json',
-          'bower_components']
+          'bower_components',
+          'Gemfile',
+          'Gemfile.lock']
