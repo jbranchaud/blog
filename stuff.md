@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 02/07/2015
+
+- [Awesome Ruby](https://github.com/markets/awesome-ruby) - this is a
+  curated collection of awesome Ruby libraries, tools, frameworks, and
+  software that the open source Ruby community is using.
+
 ##### 12/24/2014
 
 - [Mozilla Research Projects](https://www.mozilla.org/en-US/research/projects/)
