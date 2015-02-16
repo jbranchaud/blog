@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 02/15/2015
+
+- [Life in a post-database world: using crypto to avoid DB writes](https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/)
+  \- This article details some real-world examples where crypto (hash
+  algorithms) can be used in place of traditionally database-driven
+  approaches to verification.
+
 ##### 02/07/2015
 
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) - This is a
