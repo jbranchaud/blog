@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 02/16/2015
+
+- [ActiveModel Form Objects](http://robots.thoughtbot.com/activemodel-form-objects)
+  \- This article gives a concise overview of how introduce the ActiveModel
+  Form Object pattern into a Rails project.
+
 ##### 02/15/2015
 
 - [Life in a post-database world: using crypto to avoid DB writes](https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/)
