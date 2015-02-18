@@ -36,7 +36,7 @@ which will push to both the GitHub repo (`master`) and the production server
 
 ## License
 
-&copy; 2013-2014 [Josh Branchaud](http://joshbranchaud.com)
+&copy; 2013-2015 [Josh Branchaud](http://joshbranchaud.com)
 
 Everything is licensed under the MIT License with the exception of the files
 and content contained within the `_posts` directory. See
