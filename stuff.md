@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 02/28/2015
+
+- [5 Ways to Manage Front-End Assets in Rails](http://www.codefellows.org/blog/5-ways-to-manage-front-end-assets-in-rails)
+  \- This article presents five approaches to managing 3rd-Party front-end
+  assets in a Rails project. Presumably the approaches are presented in
+  order of increasing desirability.
+
 ##### 02/16/2015
 
 - [ActiveModel Form Objects](http://robots.thoughtbot.com/activemodel-form-objects)
