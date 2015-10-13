@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 10/13/2015
+
+- [Ada Developers Academy - Lesson Planning](https://github.com/Ada-Developers-Academy/LessonPlanning)
+  \- This repository has the framework and content for a 24-week
+  introduction to web application development. It's open source.
+
 ##### 02/28/2015
 
 - [5 Ways to Manage Front-End Assets in Rails](http://www.codefellows.org/blog/5-ways-to-manage-front-end-assets-in-rails)
