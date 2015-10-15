@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 10/15/2015
+
+- [How ruby method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
+  \- A solid overview of the many concepts that make up (most of) Ruby's
+  complicated method dispatch system. Code snippets included.
+
 ##### 10/13/2015
 
 - [Ada Developers Academy - Lesson Planning](https://github.com/Ada-Developers-Academy/LessonPlanning)
