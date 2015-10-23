@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 10/23/2015
+
+- [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+  \- This article thoughtfully and methodically unpacks many of the inherent
+  assumptions around the expectation of OSS participation.
+
 ##### 10/15/2015
 
 - [How ruby method dispatch works](https://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/)
