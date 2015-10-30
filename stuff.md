@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 10/30/2015
+
+- [Building A Database-Backed Clojure Web Application](https://devcenter.heroku.com/articles/clojure-web-application)
+  \- A pragmatic introduction to clojure web application development with
+  Heroku.
+
 ##### 10/23/2015
 
 - [The Ethics of Unpaid Labor and the OSS Community](http://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
