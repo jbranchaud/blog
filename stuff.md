@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/11/2015
+
+- [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure)
+  \- A brief overview on how SOLID principles can apply to Clojure's
+  functional paradigm.
+
 ##### 10/30/2015
 
 - [Building A Database-Backed Clojure Web Application](https://devcenter.heroku.com/articles/clojure-web-application)
