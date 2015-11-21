@@ -5,6 +5,12 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/20/2015
+
+- [Parinfer](https://shaunlebron.github.io/parinfer/)
+  \- Simplifying the way Lisps are written by inferring parentheses and
+  braces from indentation.
+
 ##### 11/11/2015
 
 - [SOLID Principles in Clojure](http://www.lispcast.com/solid-principles-in-clojure)
