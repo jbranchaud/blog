@@ -5,6 +5,13 @@ title: Stuff by Josh Branchaud
 
 # Stuff
 
+##### 11/21/2015
+
+- [Immutability, Interactivity, and JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk)
+  \- David Nolen talks about how immutability can remove incidental
+  complexity from web app development and explains the trie data structure,
+  which helps make immutability efficient and powerful.
+
 ##### 11/20/2015
 
 - [Parinfer](https://shaunlebron.github.io/parinfer/)
