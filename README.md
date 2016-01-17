@@ -7,14 +7,18 @@ software, but also include other parts of my life from time to time.
 
 To **build** the site, simply run
 
-    grunt build
+```
+$ grunt build
+```
 
 which will use a combination of grunt tasks and jekyll to build the site.
 See the `_site` directory.
 
 To **serve** the site locally, simply run
 
-    grunt serve
+```
+$ grunt serve
+```
 
 which will use a combination of grunt tasks and jekyll to locally serve the
 site and re-serve as changes are made. See
@@ -22,7 +26,9 @@ site and re-serve as changes are made. See
 
 To **deploy** the site to production, simply run
 
-    grunt deploy
+```
+$ grunt deploy
+```
 
 which will push to both the GitHub repo (`master`) and the production server
 (`deploy`) that hosts the site.
