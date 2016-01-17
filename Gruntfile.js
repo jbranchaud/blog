@@ -68,6 +68,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-exec');
 
     grunt.registerTask('default', [ 'less', 'uglify', 'copy', 'exec:build' ]);
+    grunt.registerTask('build', [ 'less', 'uglify', 'copy', 'exec:build' ]);
     grunt.registerTask('serve', [ 'less', 'uglify', 'copy', 'exec:serve' ]);
     grunt.registerTask('deploy', [ 'exec:deploy' ]);
 
