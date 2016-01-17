@@ -7,7 +7,7 @@ software, but also include other parts of my life from time to time.
 
 To **build** the site, simply run
 
-```
+```bash
 $ grunt build
 ```
 
@@ -16,7 +16,7 @@ See the `_site` directory.
 
 To **serve** the site locally, simply run
 
-```
+```bash
 $ grunt serve
 ```
 
@@ -26,7 +26,7 @@ site and re-serve as changes are made. See
 
 To **deploy** the site to production, simply run
 
-```
+```bash
 $ grunt deploy
 ```
 
@@ -35,7 +35,7 @@ which will push to both the GitHub repo (`master`) and the production server
 
 ## Deploy with Ansible
 
-``bash
+```bash
 $ ansible blog -m synchronize -a "src=/Users/jbranchaud/Documents/git/forks/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
 ```
 
