@@ -27,6 +27,12 @@ To **deploy** the site to production, simply run
 which will push to both the GitHub repo (`master`) and the production server
 (`deploy`) that hosts the site.
 
+## Deploy with Ansible
+
+``bash
+$ ansible blog -m synchronize -a "src=/Users/jbranchaud/Documents/git/forks/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
+```
+
 ## Dependencies
 
 - `npm`
