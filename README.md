@@ -48,7 +48,7 @@ $ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/forks/blog/_site/ d
 
 ## License
 
-&copy; 2013-2015 [Josh Branchaud](http://joshbranchaud.com)
+&copy; 2013-2016 [Josh Branchaud](http://joshbranchaud.com)
 
 Everything is licensed under the MIT License with the exception of the files
 and content contained within the `_posts` directory. See
