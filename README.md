@@ -36,7 +36,7 @@ which will push to both the GitHub repo (`master`) and the production server
 ## Deploy with Ansible
 
 ```bash
-$ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
+$ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/forks/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
 ```
 
 ## Dependencies
