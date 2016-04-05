@@ -4,6 +4,10 @@ description: a blog about my adventures with and without code
 url: http://joshbranchaud.com
 permalink: /blog/:categories/:year/:month/:day/:title.html
 
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks"]
+
 highlighter: pygments
 
 exclude: ['README.md',

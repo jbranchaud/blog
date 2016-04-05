@@ -25,9 +25,12 @@ a {
 a:hover {
     color: #7C0000;
 }
-code {
+code, pre {
     color: #555;
     background: #EEE;
+}
+pre {
+  padding: 1em;
 }
 
 /* content containers */
