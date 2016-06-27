@@ -36,7 +36,7 @@ which will push to both the GitHub repo (`master`) and the production server
 ## Deploy with Ansible
 
 ```bash
-$ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
+$ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/forks/blog/_site/ dest=/home/jbranchaud/www/joshbranchaud.com/public_html/"
 ```
 
 ## Dependencies
@@ -48,7 +48,7 @@ $ ansible blog -m synchronize -a "src=/Users/jbranchaud/code/blog/_site/ dest=/h
 
 ## License
 
-&copy; 2013-2015 [Josh Branchaud](http://joshbranchaud.com)
+&copy; 2013-2016 [Josh Branchaud](http://joshbranchaud.com)
 
 Everything is licensed under the MIT License with the exception of the files
 and content contained within the `_posts` directory. See
